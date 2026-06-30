@@ -1,0 +1,12 @@
+NOTICE
+
+This project is an independent, fan-made implementation inspired by the
+classic UNO card game. It is not affiliated with, endorsed by, or sponsored
+by Mattel, Inc., the owner of the UNO trademark. No original Mattel artwork,
+branding, or copyrighted assets are included in this repository.
+
+This project bundles or depends on the following third-party components,
+each under its own license:
+
+- SFML 3.0.2 — zlib/png license (https://www.sfml-dev.org/license.php)
+- Liberation Sans (Bold Italic) — SIL Open Font License 1.1 (https://scripts.sil.org/OFL)
