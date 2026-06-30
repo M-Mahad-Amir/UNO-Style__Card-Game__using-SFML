@@ -9,11 +9,9 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square)
 
-*An end-of-semester Object-Oriented Programming project — CT-260, NED University*
-
 </div>
 
-> **Disclaimer:** This is an independent, fan-made educational project. It is not affiliated with, endorsed by, or sponsored by Mattel, Inc., the owner of the UNO trademark. No original Mattel artwork or branding is used.
+> An end-of-semester Object-Oriented Programming project.
 
 ---
 
@@ -93,8 +91,9 @@ Grab the latest pre-built release: see the [**Releases**](../../releases) tab, d
 
 ## 👥 Credits
 
-Built by a 4-member team for CT-260 (Object Oriented Programming), NED University, Spring 2026.
+Built by a 4-member team. See Contributors.
 
 ## 📄 License
 
-This project's source code is licensed under the [MIT LICENSE](docs/LICENSE). It depends on SFML 3.0.2 (zlib/png license) and the Liberation Sans font (SIL Open Font License 1.1) — see `LICENSE` for full third-party attribution.
+This project's source code is licensed under the [MIT LICENSE](LICENSE). 
+See [Notice](NOTICE) for full third-party attribution.
